@@ -14,8 +14,6 @@ This project focuses on analyzing sales data to extract meaningful insights, ide
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn) *(if used)*
-- SQL *(if used)*
 - Power BI *(for dashboard visualization)*
 - Excel *(for data preprocessing)*
 
